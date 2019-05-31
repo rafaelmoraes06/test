@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "postId": 1,
+      "id": 1,
+      "name":"test1",
+      "email": "test@test",
+      "bpdy": "orem ipsum dolor sit amet, consectetur adipiscing elit. "
+    },
+    {
+      "postId": 1,
+      "id": 2,
+      "name":"test2",
+      "email": "test2@test2",
+      "bpdy": "Donec quis sapien feugiat, rutrum justo eu, interdum odio. Sed sollicitudin id magna ut sodales."
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
